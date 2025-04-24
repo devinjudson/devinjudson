@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Devin Judson
 
-🎓 Computer Science senior at SNHU | 💻 Aspiring Software Engineer
-*🎶 Passionate about building scalable, maintainable software and user-friendly digital experiences
-*🌱 Currently learning advanced algorithms and AI for creative applications 
-*🛠️ Projects: ChordGen 🎹 | Travlr 🌍
+🎓 Computer Science senior at SNHU | 💻 Aspiring Software Engineer <br>
+🎶 Passionate about building scalable, maintainable software and user-friendly digital experiences <br>
+🌱 Currently learning advanced algorithms and AI for creative applications <br>
+🛠️ Projects: ChordGen 🎹 | Travlr 🌍
 
 ## 🧠 Tech Stack
 - Languages: JavaScript, TypeScript, Python, C#, Java  
