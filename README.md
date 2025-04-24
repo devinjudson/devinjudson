@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Devin Judson
 
-🎓 Computer Science senior at SNHU | 💻 Aspiring Software Engineer  
-🎶 Passionate about building scalable, maintainable software and user-friendly digital experiences
-🌱 Currently learning advanced algorithms and AI for creative applications  
+🎓 Computer Science senior at SNHU | 💻 Aspiring Software Engineer*Tabspace*  
+🎶 Passionate about building scalable, maintainable software and user-friendly digital experiences*Tabspace*
+🌱 Currently learning advanced algorithms and AI for creative applications*Tabspace*  
 🛠️ Projects: ChordGen 🎹 | Travlr 🌍
 
 ## 🧠 Tech Stack
