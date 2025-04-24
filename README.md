@@ -11,5 +11,5 @@
 - Tools: MongoDB, Git, REST APIs, Tailwind, .NET
 
 ## 📫 Let's connect
-- [LinkedIn](https://linkedin.com/in/devinjudson)
-- [Email] djudson3497@gmail.com
+- LinkedIn [linkedIn](https://linkedin.com/in/devinjudson)
+- Email djudson3497@gmail.com
